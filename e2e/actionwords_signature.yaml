@@ -1,0 +1,40 @@
+---
+- name: Eu estou na página de login
+  uid: 7b3a7cba-4ab9-46c1-8f05-82ddb57e3f53
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu clico em Sign In
+  uid: cde622c4-fff9-4609-8d79-fa73093f80d7
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: O Sistema faz login
+  uid: 2704e6ab-a1fe-48ff-8427-501dae402e7f
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu digito o email "p1"
+  uid: 3adffe89-2650-4405-8196-80f3d7c4b3ec
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu digito a senha "p1"
+  uid: 3fe17c5a-49a0-48a4-b205-8edfd4b99820
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu estou na página esqueci a senha
+  uid: 020baa30-7b9b-4192-8238-2b5579e985bb
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu insiro o email "p1"
+  uid: 22139fec-b6a6-4683-86d4-f0e0b7b3eae5
+  parameters:
+  - name: p1
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: Eu clico no botão Send Instructions
+  uid: 3152ff8a-58db-4727-ac0c-a94748bcb5fb
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
+- name: O Sistema me envia uma nova senha através do email cadastrado
+  uid: 8a013978-1809-48fb-b823-29835e28fe98
+  parameters: []
+  body_hash: d41d8cd98f00b204e9800998ecf8427e
